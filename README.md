@@ -5,3 +5,4 @@ Upon landing on our homepage, users are greeted with stunning images of various 
 
 The website also features a social component, where travelers can create profiles, connect with fellow travelers, follow each other, and engage in discussions through comments, likes, and shares. Users can also save their favorite travel logs, create travel wishlists, and interact with other travelers through private messages, fostering a sense of community among like-minded individuals.
 ![homepage1](https://user-images.githubusercontent.com/112704366/231680569-6e02760a-af18-4376-a458-5f924ab6fd0c.jpg)
+![home2](https://user-images.githubusercontent.com/112704366/231680735-d8fa631a-c2d0-4b33-8f9d-8b6bf7a9b1f2.jpg)
